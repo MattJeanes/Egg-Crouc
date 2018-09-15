@@ -1,0 +1,1247 @@
+{
+    "lens_id": "465b5e7f-f3f4-4f24-abac-348076c29f12",
+    "version": "0",
+    "lastChanged": "1524535531804",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "5",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "5",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Diffuse Textures",
+                        "Base"
+                    ],
+                    [
+                        "Diffuse Textures",
+                        "Base_2"
+                    ],
+                    [
+                        "Diffuse Textures",
+                        "Base_3"
+                    ],
+                    [
+                        "Diffuse Textures",
+                        "Base_4"
+                    ],
+                    [
+                        "Diffuse Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Diffuse Textures",
+                        "Normal_2"
+                    ],
+                    [
+                        "Diffuse Textures",
+                        "Normal_3"
+                    ],
+                    [
+                        "Diffuse Textures",
+                        "Normal_4"
+                    ],
+                    [
+                        "Materials",
+                        "Occluder"
+                    ],
+                    [
+                        "Materials",
+                        "logo"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Occluder Mesh"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "Post_effect_lookup_table"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "billboard_multi_face"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "vignette"
+                    ],
+                    [
+                        "Textures",
+                        "Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "DiffuseEnvmap"
+                    ],
+                    [
+                        "Textures",
+                        "Overlay Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "SpecularEnvmap"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Object001"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Object001_2"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Plane001"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Plane002"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Plane002_2"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Sphere01"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Sphere01_2"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Torus001"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Torus001_2"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Torus002"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Torus002_2"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Torus003"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Torus003_2"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Torus004"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Torus004_2"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Torus005"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Torus005_2"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Torus006"
+                    ],
+                    [
+                        "hat",
+                        "Meshes",
+                        "Torus006_2"
+                    ],
+                    [
+                        "hat",
+                        "logo"
+                    ],
+                    [
+                        "hat",
+                        "logo_2"
+                    ],
+                    [
+                        "hat",
+                        "main"
+                    ],
+                    [
+                        "hat",
+                        "red"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1515437954945331:32055",
+                    "1515437955024915:32226",
+                    "1515437955065812:32344",
+                    "1515447226609287:53040",
+                    "1515448846759604:9356",
+                    "1515451110648530:20844",
+                    "1515455815627613:90623",
+                    "1515456190475596:102244",
+                    "1515456198509877:105522",
+                    "1515456198509883:105525",
+                    "1515456871716258:120137",
+                    "1515457433034661:133508",
+                    "1515457433041807:133512",
+                    "1515457466938051:134855",
+                    "1515457534904396:141848",
+                    "1515457534965412:141923"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "14cd48911bb4bad73945ad0e5cbebbee",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Egg Crouc",
+            "camera": "2"
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1515456804637592:117173",
+                    "1515456823497523:117420",
+                    "1515456871722110:120141",
+                    "1515456897991503:121200",
+                    "1515457433047428:133516",
+                    "1515464433763075:32422",
+                    "1515464487246879:32511",
+                    "1515468347440900:16945",
+                    "1521656717027284:89815",
+                    "1521656726144568:92604",
+                    "1521689428684536:7773",
+                    "1521689431435401:10489"
+                ]
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1495032319834957:392",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1515438105511768:9107",
+                    "name": "\/Resources\/Resource54.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1515438164609890:9998",
+                    "name": "\/Resources\/Resource57.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1515438164617136:10034",
+                    "name": "\/Resources\/Resource60.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "279",
+                    "uid": "1515451110646717:20835",
+                    "name": "sceneObject_111 Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "309",
+                    "uid": "1515461681360869:20188",
+                    "name": "\/Resources\/Resource309",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "315",
+                    "uid": "1521511542666184:7784",
+                    "name": "\/Resources\/Resource315.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "317",
+                    "uid": "1521511542715008:7808",
+                    "name": "\/Resources\/Resource317.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "319",
+                    "uid": "1521511542744073:7832",
+                    "name": "\/Resources\/Resource319.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "329",
+                    "uid": "1524532670338886:4713",
+                    "name": "\/Resources\/Resource329.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Object001"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "330",
+                    "uid": "1524532670338977:4717",
+                    "name": "\/Resources\/Resource330.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Plane002"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "331",
+                    "uid": "1524532670335777:4704",
+                    "name": "\/Resources\/Resource331.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Sphere01"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "332",
+                    "uid": "1524532670337601:4708",
+                    "name": "\/Resources\/Resource332.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Torus001"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "333",
+                    "uid": "1524532670331918:4688",
+                    "name": "\/Resources\/Resource333.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Torus002"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "334",
+                    "uid": "1524532670333205:4692",
+                    "name": "\/Resources\/Resource334.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Torus003"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "335",
+                    "uid": "1524532670334478:4696",
+                    "name": "\/Resources\/Resource335.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Torus004"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "336",
+                    "uid": "1524532670335728:4700",
+                    "name": "\/Resources\/Resource336.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Torus005"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "337",
+                    "uid": "1524532670330675:4684",
+                    "name": "\/Resources\/Resource337.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Torus006"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "342",
+                    "uid": "1524532843257948:8081",
+                    "name": "\/Resources\/Resource342.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Object001"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "343",
+                    "uid": "1524532843257595:8077",
+                    "name": "\/Resources\/Resource343.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Plane001"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "344",
+                    "uid": "1524532843258105:8085",
+                    "name": "\/Resources\/Resource344.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Plane002"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "345",
+                    "uid": "1524532843206028:8069",
+                    "name": "\/Resources\/Resource345.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Sphere01"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "346",
+                    "uid": "1524532843206434:8073",
+                    "name": "\/Resources\/Resource346.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Torus001"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "347",
+                    "uid": "1524532843204799:8053",
+                    "name": "\/Resources\/Resource347.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Torus002"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "348",
+                    "uid": "1524532843205175:8057",
+                    "name": "\/Resources\/Resource348.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Torus003"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "349",
+                    "uid": "1524532843205569:8061",
+                    "name": "\/Resources\/Resource349.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Torus004"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "350",
+                    "uid": "1524532843206004:8065",
+                    "name": "\/Resources\/Resource350.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Torus005"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "351",
+                    "uid": "1524532843204302:8049",
+                    "name": "\/Resources\/Resource351.mesh",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/export\/hat.obj",
+                    "additionalProperties": {
+                        "name": "Torus006"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "353",
+                    "uid": "1524533127784977:15544",
+                    "name": "\/Resources\/Resource353.png",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/logo.tga",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "365",
+                    "uid": "1524533469420451:23163",
+                    "name": "\/Resources\/Resource365.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "366",
+                    "uid": "1524533469442565:23173",
+                    "name": "\/Resources\/Resource366.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "367",
+                    "uid": "1524533510447441:23201",
+                    "name": "\/Resources\/Resource367",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "368",
+                    "uid": "1524533510449060:23211",
+                    "name": "\/Resources\/Resource368.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "369",
+                    "uid": "1524533510450691:23221",
+                    "name": "\/Resources\/Resource369.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "370",
+                    "uid": "1524533520223599:23256",
+                    "name": "\/Resources\/Resource370.png",
+                    "sourceFilePath": "E:\/Matt\/Documents\/Projects\/Egg Crouc\/logo.tga",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "371",
+                    "uid": "1524533588750531:23765",
+                    "name": "\/Resources\/Resource371",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "372",
+                    "uid": "1524533588752234:23775",
+                    "name": "\/Resources\/Resource372.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "373",
+                    "uid": "1524533588774644:23785",
+                    "name": "\/Resources\/Resource373.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "374",
+                    "uid": "1524533607163882:23925",
+                    "name": "\/Resources\/Resource374",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "375",
+                    "uid": "1524533607165454:23935",
+                    "name": "\/Resources\/Resource375.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "376",
+                    "uid": "1524533607167083:23945",
+                    "name": "\/Resources\/Resource376.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1495032273418655:313",
+                "1": "1515451110518990:20746",
+                "2": "1515464433757800:32419",
+                "3": "1521511805504827:32161",
+                "4": "1521511805504843:32164",
+                "5": "1524532843109295:8034",
+                "6": "1524532843203799:8047",
+                "7": "1524532843204314:8051",
+                "8": "1524532843204807:8055",
+                "9": "1524532843206009:8067",
+                "10": "1524532843206032:8071",
+                "11": "1524532843206547:8075",
+                "12": "1524532843257624:8079",
+                "13": "1524532843257958:8083"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "IdleAnim",
+                                "resourceId": "54",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": [
+                            {
+                                "name": "2D Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "billboard_multi_face",
+                                        "resourceId": "315",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "vignette",
+                                        "resourceId": "317",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Post_effect_lookup_table",
+                                        "resourceId": "319",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "DiffuseEnvmap",
+                                "resourceId": "57",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap",
+                                "resourceId": "60",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Overlay Camera Output",
+                                "resourceId": "279",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Occluder Mesh",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "logo",
+                                "resourceId": "353",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Occluder",
+                                "resourceId": "309",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "hat",
+                        "groups": [
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Plane002",
+                                        "resourceId": "330",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Sphere01",
+                                        "resourceId": "331",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Torus001",
+                                        "resourceId": "332",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Torus002",
+                                        "resourceId": "333",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Torus003",
+                                        "resourceId": "334",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Torus004",
+                                        "resourceId": "335",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Torus005",
+                                        "resourceId": "336",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Torus006",
+                                        "resourceId": "337",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object001_2",
+                                        "resourceId": "342",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Plane001",
+                                        "resourceId": "343",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Plane002_2",
+                                        "resourceId": "344",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Sphere01_2",
+                                        "resourceId": "345",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Torus001_2",
+                                        "resourceId": "346",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Torus002_2",
+                                        "resourceId": "347",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Torus003_2",
+                                        "resourceId": "348",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Torus004_2",
+                                        "resourceId": "349",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Torus005_2",
+                                        "resourceId": "350",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Torus006_2",
+                                        "resourceId": "351",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object001",
+                                        "resourceId": "329",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "logo",
+                                "resourceId": "370",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "logo_2",
+                                "resourceId": "367",
+                                "extension": ""
+                            },
+                            {
+                                "name": "main",
+                                "resourceId": "374",
+                                "extension": ""
+                            },
+                            {
+                                "name": "red",
+                                "resourceId": "371",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Diffuse Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "resourceId": "365",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal",
+                                "resourceId": "366",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_2",
+                                "resourceId": "368",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal_2",
+                                "resourceId": "369",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_3",
+                                "resourceId": "372",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal_3",
+                                "resourceId": "373",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_4",
+                                "resourceId": "375",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal_4",
+                                "resourceId": "376",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": ""
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/Occluder Mesh.mesh"
+                },
+                {
+                    "id": "54",
+                    "path": "Scripts\/IdleAnim.js"
+                },
+                {
+                    "id": "57",
+                    "path": "Textures\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "60",
+                    "path": "Textures\/SpecularEnvmap.png"
+                },
+                {
+                    "id": "315",
+                    "path": "Textures\/2D Textures\/billboard_multi_face.png"
+                },
+                {
+                    "id": "317",
+                    "path": "Textures\/2D Textures\/vignette.png"
+                },
+                {
+                    "id": "319",
+                    "path": "Textures\/2D Textures\/Post_effect_lookup_table.png"
+                },
+                {
+                    "id": "329",
+                    "path": "hat\/Meshes\/Object001.mesh"
+                },
+                {
+                    "id": "330",
+                    "path": "hat\/Meshes\/Plane002.mesh"
+                },
+                {
+                    "id": "331",
+                    "path": "hat\/Meshes\/Sphere01.mesh"
+                },
+                {
+                    "id": "332",
+                    "path": "hat\/Meshes\/Torus001.mesh"
+                },
+                {
+                    "id": "333",
+                    "path": "hat\/Meshes\/Torus002.mesh"
+                },
+                {
+                    "id": "334",
+                    "path": "hat\/Meshes\/Torus003.mesh"
+                },
+                {
+                    "id": "335",
+                    "path": "hat\/Meshes\/Torus004.mesh"
+                },
+                {
+                    "id": "336",
+                    "path": "hat\/Meshes\/Torus005.mesh"
+                },
+                {
+                    "id": "337",
+                    "path": "hat\/Meshes\/Torus006.mesh"
+                },
+                {
+                    "id": "342",
+                    "path": "hat\/Meshes\/Object001_2.mesh"
+                },
+                {
+                    "id": "343",
+                    "path": "hat\/Meshes\/Plane001.mesh"
+                },
+                {
+                    "id": "344",
+                    "path": "hat\/Meshes\/Plane002_2.mesh"
+                },
+                {
+                    "id": "345",
+                    "path": "hat\/Meshes\/Sphere01_2.mesh"
+                },
+                {
+                    "id": "346",
+                    "path": "hat\/Meshes\/Torus001_2.mesh"
+                },
+                {
+                    "id": "347",
+                    "path": "hat\/Meshes\/Torus002_2.mesh"
+                },
+                {
+                    "id": "348",
+                    "path": "hat\/Meshes\/Torus003_2.mesh"
+                },
+                {
+                    "id": "349",
+                    "path": "hat\/Meshes\/Torus004_2.mesh"
+                },
+                {
+                    "id": "350",
+                    "path": "hat\/Meshes\/Torus005_2.mesh"
+                },
+                {
+                    "id": "351",
+                    "path": "hat\/Meshes\/Torus006_2.mesh"
+                },
+                {
+                    "id": "353",
+                    "path": "Materials\/logo.png"
+                },
+                {
+                    "id": "365",
+                    "path": "Diffuse Textures\/Base.png"
+                },
+                {
+                    "id": "366",
+                    "path": "Diffuse Textures\/Normal.png"
+                },
+                {
+                    "id": "368",
+                    "path": "Diffuse Textures\/Base_2.png"
+                },
+                {
+                    "id": "369",
+                    "path": "Diffuse Textures\/Normal_2.png"
+                },
+                {
+                    "id": "370",
+                    "path": "hat\/logo.png"
+                },
+                {
+                    "id": "372",
+                    "path": "Diffuse Textures\/Base_3.png"
+                },
+                {
+                    "id": "373",
+                    "path": "Diffuse Textures\/Normal_3.png"
+                },
+                {
+                    "id": "375",
+                    "path": "Diffuse Textures\/Base_4.png"
+                },
+                {
+                    "id": "376",
+                    "path": "Diffuse Textures\/Normal_4.png"
+                }
+            ]
+        }
+    }
+}
